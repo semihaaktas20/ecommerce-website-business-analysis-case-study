@@ -25,4 +25,5 @@ Homepage → Browse Categories or Search → Product Listing Page → Product De
 - Promotional Campaign Layout
 
 ## Project File
-The complete Business Analysis Case Study is available as a PDF in this repository.
+
+📄 [View the Full Business Analysis Case Study](E-Commerce%20Website%20Business%20Analysis%20Case%20Study%20Presentation.pdf)
